@@ -5,14 +5,14 @@
   "type": "module",
   "engines": { "node": ">=18" },
   "scripts": {
-    "phase1": "node phase1.js",
-    "phase2": "node phase2.js",
-    "phase3": "node phase3.js",
-    "phase4": "node phase4.js",
-    "phase5": "node phase5.js",
-    "phase6": "node phase6.js",
-    "phase7": "node phase7.js",
-    "phase8": "node phase8.js",
-    "phase9": "node phase9.js"
+    "phase1": "node --env-file=.env phase1.js",
+    "phase2": "node --env-file=.env phase2.js",
+    "phase3": "node --env-file=.env phase3.js",
+    "phase4": "node --env-file=.env phase4.js",
+    "phase5": "node --env-file=.env phase5.js",
+    "phase6": "node --env-file=.env phase6.js",
+    "phase7": "node --env-file=.env phase7.js",
+    "phase8": "node --env-file=.env phase8.js",
+    "phase9": "node --env-file=.env phase9.js"
   }
 }
