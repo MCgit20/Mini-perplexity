@@ -1,0 +1,18 @@
+{
+  "name": "mini-perplexity",
+  "version": "1.0.0",
+  "description": "Agent hybride : RAG + web search + outils",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "phase1": "node phase1.js",
+    "phase2": "node phase2.js",
+    "phase3": "node phase3.js",
+    "phase4": "node phase4.js",
+    "phase5": "node phase5.js",
+    "phase6": "node phase6.js",
+    "phase7": "node phase7.js",
+    "phase8": "node phase8.js",
+    "phase9": "node phase9.js"
+  }
+}
