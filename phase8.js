@@ -1,4 +1,4 @@
-import { ragQuery } from "./src/rag.js";
+import { ragQuery } from "./src/Rag.js";
 
 const run = async () => {
   const question = "Qui a créé Node.js et quand ?";
